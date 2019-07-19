@@ -1,4 +1,4 @@
-package com.stackroute.exercise1;
+package main.java.com.stackroute.exercise1;
 
 public class User {
     private String name;
